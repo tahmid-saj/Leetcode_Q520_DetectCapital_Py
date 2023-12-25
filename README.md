@@ -1,0 +1,1 @@
+# Leetcode_Q520_DetectCapital_Py
